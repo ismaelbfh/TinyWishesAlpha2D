@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 8e778c7307b648b48a6812aeb9e02e20
+timeCreated: 1505329582
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Esqueleto Idle_0
+    21300002: Esqueleto Idle_1
+    21300004: Esqueleto Idle_2
+    21300006: Esqueleto Idle_3
+    21300008: Esqueleto Idle_4
+    21300010: Esqueleto Idle_5
+    21300012: Esqueleto Idle_6
+    21300014: Esqueleto Idle_7
+    21300016: Esqueleto Idle_8
+    21300018: Esqueleto Idle_9
+    21300020: Esqueleto Idle_10
+    21300022: Esqueleto Idle_11
+    21300024: Esqueleto Idle_12
+    21300026: Esqueleto Idle_13
+    21300028: Esqueleto Idle_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Esqueleto Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1900
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 1900
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_2
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 0
+        width: 1987
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_3
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 0
+        width: 2061
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_4
+      rect:
+        serializedVersion: 2
+        x: 7875
+        y: 0
+        width: 1941
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_5
+      rect:
+        serializedVersion: 2
+        x: 9816
+        y: 0
+        width: 1996
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_6
+      rect:
+        serializedVersion: 2
+        x: 11812
+        y: 0
+        width: 1941
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_7
+      rect:
+        serializedVersion: 2
+        x: 13753
+        y: 0
+        width: 1987
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_8
+      rect:
+        serializedVersion: 2
+        x: 15736
+        y: 0
+        width: 1959
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_9
+      rect:
+        serializedVersion: 2
+        x: 17713
+        y: 0
+        width: 1932
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_10
+      rect:
+        serializedVersion: 2
+        x: 19655
+        y: 0
+        width: 1987
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_11
+      rect:
+        serializedVersion: 2
+        x: 21632
+        y: 0
+        width: 1895
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_12
+      rect:
+        serializedVersion: 2
+        x: 23527
+        y: 0
+        width: 1951
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_13
+      rect:
+        serializedVersion: 2
+        x: 25478
+        y: 0
+        width: 1950
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Esqueleto Idle_14
+      rect:
+        serializedVersion: 2
+        x: 27428
+        y: 0
+        width: 2010
+        height: 2764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

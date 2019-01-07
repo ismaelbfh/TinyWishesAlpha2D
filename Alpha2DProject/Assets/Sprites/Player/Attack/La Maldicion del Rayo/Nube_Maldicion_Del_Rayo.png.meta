@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: a44b7ceb747e29f4a8ffe02ca2b3e685
+timeCreated: 1507488740
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Nube_Maldicion_Del_Rayo_0
+    21300002: Nube_Maldicion_Del_Rayo_1
+    21300004: Nube_Maldicion_Del_Rayo_2
+    21300006: Nube_Maldicion_Del_Rayo_3
+    21300008: Nube_Maldicion_Del_Rayo_4
+    21300010: Nube_Maldicion_Del_Rayo_5
+    21300012: Nube_Maldicion_Del_Rayo_6
+    21300014: Nube_Maldicion_Del_Rayo_7
+    21300016: Nube_Maldicion_Del_Rayo_8
+    21300018: Nube_Maldicion_Del_Rayo_9
+    21300020: Nube_Maldicion_Del_Rayo_10
+    21300022: Nube_Maldicion_Del_Rayo_11
+    21300024: Nube_Maldicion_Del_Rayo_12
+    21300026: Nube_Maldicion_Del_Rayo_13
+    21300028: Nube_Maldicion_Del_Rayo_14
+    21300030: Nube_Maldicion_Del_Rayo_15
+    21300032: Nube_Maldicion_Del_Rayo_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1975
+        width: 3035
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_1
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1975
+        width: 3035
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_2
+      rect:
+        serializedVersion: 2
+        x: 6145
+        y: 1902
+        width: 3035
+        height: 1170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_3
+      rect:
+        serializedVersion: 2
+        x: 9221
+        y: 1915
+        width: 3035
+        height: 1157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_4
+      rect:
+        serializedVersion: 2
+        x: 12266
+        y: 1811
+        width: 2892
+        height: 1261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_5
+      rect:
+        serializedVersion: 2
+        x: 15296
+        y: 1811
+        width: 2910
+        height: 1261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_6
+      rect:
+        serializedVersion: 2
+        x: 18366
+        y: 1921
+        width: 3049
+        height: 1151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_7
+      rect:
+        serializedVersion: 2
+        x: 21507
+        y: 685
+        width: 2989
+        height: 2387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_8
+      rect:
+        serializedVersion: 2
+        x: 24524
+        y: 3
+        width: 3035
+        height: 3069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_9
+      rect:
+        serializedVersion: 2
+        x: 27589
+        y: 1732
+        width: 2940
+        height: 1340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_10
+      rect:
+        serializedVersion: 2
+        x: 30685
+        y: 1775
+        width: 2868
+        height: 1297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_11
+      rect:
+        serializedVersion: 2
+        x: 33691
+        y: 1939
+        width: 3086
+        height: 1133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_12
+      rect:
+        serializedVersion: 2
+        x: 36766
+        y: 1957
+        width: 3068
+        height: 1115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_13
+      rect:
+        serializedVersion: 2
+        x: 39898
+        y: 1902
+        width: 2995
+        height: 1170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_14
+      rect:
+        serializedVersion: 2
+        x: 42950
+        y: 1811
+        width: 2849
+        height: 1261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_15
+      rect:
+        serializedVersion: 2
+        x: 45966
+        y: 1781
+        width: 2898
+        height: 1291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Nube_Maldicion_Del_Rayo_16
+      rect:
+        serializedVersion: 2
+        x: 49010
+        y: 1933
+        width: 3053
+        height: 1139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

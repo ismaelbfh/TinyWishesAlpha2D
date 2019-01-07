@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: e4feec74f341c4944aabbeca19ac1a4f
+timeCreated: 1501166794
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Secuencia_Atacar_Skeleton_2_0
+    21300002: Secuencia_Atacar_Skeleton_2_1
+    21300004: Secuencia_Atacar_Skeleton_2_2
+    21300006: Secuencia_Atacar_Skeleton_2_3
+    21300008: Secuencia_Atacar_Skeleton_2_4
+    21300010: Secuencia_Atacar_Skeleton_2_5
+    21300012: Secuencia_Atacar_Skeleton_2_6
+    21300014: Secuencia_Atacar_Skeleton_2_7
+    21300016: Secuencia_Atacar_Skeleton_2_8
+    21300018: Secuencia_Atacar_Skeleton_2_9
+    21300020: Secuencia_Atacar_Skeleton_2_10
+    21300022: Secuencia_Atacar_Skeleton_2_11
+    21300024: Secuencia_Atacar_Skeleton_2_12
+    21300026: Secuencia_Atacar_Skeleton_2_13
+    21300028: Secuencia_Atacar_Skeleton_2_14
+    21300030: Secuencia_Atacar_Skeleton_2_15
+    21300032: Secuencia_Atacar_Skeleton_2_16
+    21300034: Secuencia_Atacar_Skeleton_2_17
+    21300036: Secuencia_Atacar_Skeleton_2_18
+    21300038: Secuencia_Atacar_Skeleton_2_19
+    21300040: Secuencia_Atacar_Skeleton_2_20
+    21300042: Secuencia_Atacar_Skeleton_2_21
+    21300044: Secuencia_Atacar_Skeleton_2_22
+    21300046: Secuencia_Atacar_Skeleton_2_23
+    21300048: Secuencia_Atacar_Skeleton_2_24
+    21300050: Secuencia_Atacar_Skeleton_2_25
+    21300052: Secuencia_Atacar_Skeleton_2_26
+    21300054: Secuencia_Atacar_Skeleton_2_27
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_0
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2744
+        width: 494
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_1
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 2730
+        width: 537
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_2
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 2725
+        width: 569
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_3
+      rect:
+        serializedVersion: 2
+        x: 6233
+        y: 2749
+        width: 588
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_4
+      rect:
+        serializedVersion: 2
+        x: 7992
+        y: 2739
+        width: 564
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_5
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 2057
+        width: 508
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_6
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 2048
+        width: 451
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_7
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 2048
+        width: 424
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_8
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 2057
+        width: 461
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_9
+      rect:
+        serializedVersion: 2
+        x: 8157
+        y: 2062
+        width: 494
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_10
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1376
+        width: 548
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_11
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1356
+        width: 599
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_12
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 1371
+        width: 619
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_13
+      rect:
+        serializedVersion: 2
+        x: 6344
+        y: 1376
+        width: 610
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_14
+      rect:
+        serializedVersion: 2
+        x: 8116
+        y: 1376
+        width: 508
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_15
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 671
+        width: 528
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_16
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 661
+        width: 751
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_17
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 682
+        width: 604
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_18
+      rect:
+        serializedVersion: 2
+        x: 6235
+        y: 671
+        width: 610
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_19
+      rect:
+        serializedVersion: 2
+        x: 8019
+        y: 671
+        width: 584
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_20
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 543
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_21
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 543
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_22
+      rect:
+        serializedVersion: 2
+        x: 4566
+        y: 0
+        width: 563
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_23
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 0
+        width: 472
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Secuencia_Atacar_Skeleton_2_24
+      rect:
+        serializedVersion: 2
+        x: 8121
+        y: 0
+        width: 487
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

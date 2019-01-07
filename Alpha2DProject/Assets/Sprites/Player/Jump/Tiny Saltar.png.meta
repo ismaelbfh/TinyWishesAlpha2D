@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: c8a34d87182b93c4295591d9a1f1c9b4
+timeCreated: 1505586873
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tiny Saltar_0
+    21300002: Tiny Saltar_1
+    21300004: Tiny Saltar_2
+    21300006: Tiny Saltar_3
+    21300008: Tiny Saltar_4
+    21300010: Tiny Saltar_5
+    21300012: Tiny Saltar_6
+    21300014: Tiny Saltar_7
+    21300016: Tiny Saltar_8
+    21300018: Tiny Saltar_9
+    21300020: Tiny Saltar_10
+    21300022: Tiny Saltar_11
+    21300024: Tiny Saltar_12
+    21300026: Tiny Saltar_13
+    21300028: Tiny Saltar_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1400
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny Saltar_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 581
+        width: 2438
+        height: 2318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_1
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 581
+        width: 2408
+        height: 2318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_2
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 581
+        width: 2422
+        height: 2318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_3
+      rect:
+        serializedVersion: 2
+        x: 7652
+        y: 581
+        width: 2381
+        height: 2318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_4
+      rect:
+        serializedVersion: 2
+        x: 10171
+        y: 535
+        width: 2382
+        height: 2364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_5
+      rect:
+        serializedVersion: 2
+        x: 12703
+        y: 521
+        width: 2408
+        height: 2375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_6
+      rect:
+        serializedVersion: 2
+        x: 15338
+        y: 655
+        width: 2382
+        height: 2244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_7
+      rect:
+        serializedVersion: 2
+        x: 17855
+        y: 655
+        width: 2355
+        height: 2244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_8
+      rect:
+        serializedVersion: 2
+        x: 20397
+        y: 655
+        width: 2328
+        height: 2244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_9
+      rect:
+        serializedVersion: 2
+        x: 22938
+        y: 528
+        width: 2301
+        height: 2371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_10
+      rect:
+        serializedVersion: 2
+        x: 25458
+        y: 528
+        width: 2247
+        height: 2371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_11
+      rect:
+        serializedVersion: 2
+        x: 27933
+        y: 558
+        width: 2247
+        height: 2341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_12
+      rect:
+        serializedVersion: 2
+        x: 30408
+        y: 498
+        width: 2261
+        height: 2401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_13
+      rect:
+        serializedVersion: 2
+        x: 32975
+        y: 581
+        width: 2247
+        height: 2314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tiny Saltar_14
+      rect:
+        serializedVersion: 2
+        x: 35557
+        y: 581
+        width: 2301
+        height: 2318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
